@@ -1,7 +1,5 @@
 ### Hi, I'm Arman Nurniyazov 👋
 
-You can see information about me by this link: http://personalwebsite-env.eba-g294y9vk.us-east-1.elasticbeanstalk.com/
-
 <!--
 **arman-nurniyazov/arman-nurniyazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
