@@ -1,7 +1,7 @@
 ### Hi, I'm Arman Nurniyazov 👋
 
 Visit my personal website:
-https://arman-nurniyazov.herokuapp.com
+https://arman-nurniyazov-me.herokuapp.com
 
 <!--
 **arman-nurniyazov/arman-nurniyazov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
